@@ -45,4 +45,4 @@ I added some basic feature tests to cover the dashboard loading successfully and
 - Copy `.env.example` to `.env` and add the provided key to `FOOTBALL_DATA_API_KEY`.
 - Install the Composer and npm dependencies.
 - Generate the application key, run the migrations and build the frontend assets.
-- Run the application using your preferred local Laravel environment.
+- I personally used Laragon to run the application locally due to familiarity and speed but the project is basic enough for any alternative.
