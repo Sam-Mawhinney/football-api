@@ -12,8 +12,6 @@ I've included the IDs for the other Big Six teams below. You can change `FOOTBAL
 - Arsenal FC - `57`
 - Tottenham Hotspur FC - `73`
 
-I kept the application scope small and focused to fit the suggested 1-3 hour timebox. Rather than adding team search, accounts or other larger features, I concentrated on the API integration, project structure and presentation of the data.
-
 ## Approach
 
 The application has a single route handled by `TeamController`. The controller gathers the data needed by the page and returns either the dashboard or a friendly error view.
